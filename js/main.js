@@ -290,7 +290,6 @@
   Javascript Function for initialize typer text
 --------------------------------------------------------*/
 	var typer = $('.typer');
-	//typer.typer(['I\'m a marketer', 'I deliver messages to the world']);
 	typer.typer(['I\'m a problem solver']);
 
 /*------------------------------------------------------
